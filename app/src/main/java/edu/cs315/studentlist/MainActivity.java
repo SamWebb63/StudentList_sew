@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             "Ben Lamont",
             "Kyle Lemons",
             "Wade Linder",
-            "Josh Marsden",
+            "John Marsden",
             "Felix Angelo Mbikogbia",
             "Mitchell Melrose",
             "Jade Rupley",
